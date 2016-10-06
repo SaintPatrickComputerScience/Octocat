@@ -6,11 +6,11 @@ Our goal is to make a JavaScript file in Atom and upload it to the same Test Rep
 ### Octocat
 The type of these objects are called Octocats. This should be the name of your constructor function.
 
-  -  #### Instance Variables
+  - Instance Variables
     -  name: its name.
     -  arms: the number of arms your octocat has.
 
-  -  #### Instance Functions
+  -  Instance Functions
     -  slap: This function runs a for-loop. Each time the function runs through the for-loop you will log "SLAP" to the console. This loop should run once for each arm that your octocat has.
 
 ### Upload
